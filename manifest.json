@@ -6,12 +6,12 @@
   "description": "YesLive TV",
   "icons": [
     {
-      "src": "/retro-tv.webp",
+      "src": "retro-tv.webp",
       "sizes": "980x980",
       "type": "image/webp",
       "purpose": "any"
     }
   ],
-  "start_url": "/",
-  "scope": "/"
+  "start_url": "/yeslive-pwa",
+  "scope": "/yeslive-pwa"
 }
