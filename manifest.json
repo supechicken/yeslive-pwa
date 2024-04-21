@@ -10,6 +10,12 @@
       "sizes": "980x980",
       "type": "image/webp",
       "purpose": "any"
+    },
+    {
+      "src": "retro-tv.webp",
+      "sizes": "980x980",
+      "type": "image/webp",
+      "purpose": "maskable"
     }
   ],
   "start_url": "/yeslive-pwa",
