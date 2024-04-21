@@ -24,7 +24,10 @@
 </style>
 
 <body>
-  <iframe allowfullscreen src="https://yeslivetv.com"></iframe>
+  <iframe id="frame" allowfullscreen src="https://yeslivetv.com"></iframe>
+  <script defer>
+    window.onload = () => document.getElementById('frame').focus();
+  </script>
 </body>
 
 </html>
